@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"testsprite",
-    "path":"sprites/testsprite/testsprite.yy",
+    "name":"spr_spaceship",
+    "path":"sprites/spr_spaceship/spr_spaceship.yy",
   },
   "spriteMaskId":null,
   "visible":true,
