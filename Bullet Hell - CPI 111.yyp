@@ -36,6 +36,7 @@
   },
   "name":"Bullet Hell - CPI 111",
   "resources":[
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"bg_1","path":"sprites/bg_1/bg_1.yy",},},
     {"id":{"name":"testsprite","path":"sprites/testsprite/testsprite.yy",},},
