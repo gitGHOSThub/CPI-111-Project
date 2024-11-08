@@ -36,9 +36,10 @@
   },
   "name":"Bullet Hell - CPI 111",
   "resources":[
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"bg_1","path":"sprites/bg_1/bg_1.yy",},},
-    {"id":{"name":"testsprite","path":"sprites/testsprite/testsprite.yy",},},
+    {"id":{"name":"bg_space_nebula","path":"sprites/bg_space_nebula/bg_space_nebula.yy",},},
+    {"id":{"name":"spr_spaceship","path":"sprites/spr_spaceship/spr_spaceship.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
