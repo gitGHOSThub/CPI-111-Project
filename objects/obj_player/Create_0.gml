@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 function spawnProj(){
@@ -16,3 +17,9 @@ function manageCDs(){
 	curr_shoot_cd -= delta_time/ 1000000
 	
 }
+=======
+/// @description Insert description here
+// You can write your code in this editor
+
+show_debug_message("lel");
+>>>>>>> parent of eb1b240 (Revert "Merge remote-tracking branch 'origin/Static-Sprites'")

@@ -36,6 +36,7 @@
   },
   "name":"Bullet Hell - CPI 111",
   "resources":[
+<<<<<<< HEAD
     {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
     {"id":{"name":"obj_enemyspawner","path":"objects/obj_enemyspawner/obj_enemyspawner.yy",},},
@@ -47,6 +48,12 @@
     {"id":{"name":"spr_appyguy","path":"sprites/spr_appyguy/spr_appyguy.yy",},},
     {"id":{"name":"spr_projectile","path":"sprites/spr_projectile/spr_projectile.yy",},},
     {"id":{"name":"testsprite","path":"sprites/testsprite/testsprite.yy",},},
+=======
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"bg_space_nebula","path":"sprites/bg_space_nebula/bg_space_nebula.yy",},},
+    {"id":{"name":"spr_spaceship","path":"sprites/spr_spaceship/spr_spaceship.yy",},},
+>>>>>>> parent of eb1b240 (Revert "Merge remote-tracking branch 'origin/Static-Sprites'")
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
