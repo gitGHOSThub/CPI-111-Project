@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_player_bullet",
+  "eventList":[],
   "managed":true,
-  "name":"obj_player",
+  "name":"obj_player_bullet",
   "overriddenProperties":[],
   "parent":{
     "name":"Player",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_spaceship",
-    "path":"sprites/spr_spaceship/spr_spaceship.yy",
+    "name":"spr_player_bullet",
+    "path":"sprites/spr_player_bullet/spr_player_bullet.yy",
   },
   "spriteMaskId":null,
   "visible":true,
