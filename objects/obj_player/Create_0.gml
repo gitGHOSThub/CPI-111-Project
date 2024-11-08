@@ -1,6 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-
 
 
 function spawnProj(){
@@ -17,6 +14,5 @@ function manageCDs(){
 		curr_shoot_cd = shoot_cd 
 	}
 	curr_shoot_cd -= delta_time/ 1000000
-	show_debug_message(string(curr_shoot_cd))
 	
 }

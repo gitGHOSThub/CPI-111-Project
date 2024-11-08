@@ -4,6 +4,8 @@
 
 shoot_angle = point_direction(x,y,mouse_x,mouse_y)
 
+global.playerX = x
+global.playerY = y
 
 // preload keyboard state so we don't have to recheck later
 var up = keyboard_check(ord("W"))
@@ -12,7 +14,7 @@ var right = keyboard_check(ord("D"))
 var left = keyboard_check(ord("A"))
 var shoot = mouse_check_button(1)
 
-
+// pixels/second
 var walkSpeed = baseWalkSpeed * walkSpeedModifier * delta_time/ 1000000
 
 xVel = (right-left) * walkSpeed
