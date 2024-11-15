@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Track2_Lose",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":5.3015,
+  "name":"Track2_Lose",
+  "parent":{
+    "name":"MP3",
+    "path":"folders/Sounds/Audio/Music/MP3.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Track2_Lose.mp3",
+  "type":0,
+  "volume":1.0,
+}
