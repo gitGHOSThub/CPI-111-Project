@@ -45,6 +45,7 @@
     {"id":{"name":"bg_1","path":"sprites/bg_1/bg_1.yy",},},
     {"id":{"name":"spr_angrytomato","path":"sprites/spr_angrytomato/spr_angrytomato.yy",},},
     {"id":{"name":"spr_appyguy","path":"sprites/spr_appyguy/spr_appyguy.yy",},},
+    {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
     {"id":{"name":"spr_projectile","path":"sprites/spr_projectile/spr_projectile.yy",},},
     {"id":{"name":"testsprite","path":"sprites/testsprite/testsprite.yy",},},
   ],
