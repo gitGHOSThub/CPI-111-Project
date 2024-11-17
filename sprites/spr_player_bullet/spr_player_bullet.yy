@@ -31,8 +31,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Player",
-    "path":"folders/Sprites/Characters/Player.yy",
+    "name":"Projectiles",
+    "path":"folders/Sprites/Characters/Player/Projectiles.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

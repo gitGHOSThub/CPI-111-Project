@@ -3,8 +3,8 @@
   "%Name":"PlayerShip_Light",
   "bboxMode":0,
   "bbox_bottom":209,
-  "bbox_left":52,
-  "bbox_right":203,
+  "bbox_left":51,
+  "bbox_right":204,
   "bbox_top":46,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -13,6 +13,8 @@
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"","%Name":"e301cc00-258a-4a6a-b45e-fb764aad7ad8","name":"e301cc00-258a-4a6a-b45e-fb764aad7ad8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"3b4f32b5-0a2f-4084-86cd-c0b0a4a229a3","name":"3b4f32b5-0a2f-4084-86cd-c0b0a4a229a3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"bfde4d2c-5e8b-4afa-97ea-8af54e0364be","name":"bfde4d2c-5e8b-4afa-97ea-8af54e0364be","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -49,7 +51,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":1.0,
+    "length":3.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -71,6 +73,12 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e301cc00-258a-4a6a-b45e-fb764aad7ad8","path":"sprites/PlayerShip_Light/PlayerShip_Light.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"00a7aec9-921c-4af8-866d-9f2f8ac94ec6","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3b4f32b5-0a2f-4084-86cd-c0b0a4a229a3","path":"sprites/PlayerShip_Light/PlayerShip_Light.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"e558f1e7-05ed-4e36-85a1-8888df82a054","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bfde4d2c-5e8b-4afa-97ea-8af54e0364be","path":"sprites/PlayerShip_Light/PlayerShip_Light.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"41e746e7-1192-4521-8c6a-4ea6b6fe4c01","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
