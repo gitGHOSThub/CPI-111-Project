@@ -1,2 +1,2 @@
-Main branch where all final merges will go. 
-DO NOT use this branch to push direct changes.
+Master branch is where all final merges will go.
+Do not use master branch to push changes.
