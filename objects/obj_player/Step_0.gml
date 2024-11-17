@@ -14,9 +14,6 @@ var right = keyboard_check(ord("D"))
 var left = keyboard_check(ord("A"))
 var shoot = mouse_check_button(1)
 
-// Camera following player movement
-camera_set_view_pos(view_camera[0], x - camera_get_view_width(view_camera[0]) / 2,  y - camera_get_view_height((view_camera[0]) / 2))
-
 // pixels/second
 var walkSpeed = baseWalkSpeed * walkSpeedModifier * delta_time/ 1000000
 

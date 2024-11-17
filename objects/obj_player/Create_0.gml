@@ -1,7 +1,4 @@
-// Initializing Camera Movement
-camera_width = 640
-camera_height = 360
-camera = view_camera[0]
+
 
 function spawnProj(){
 
