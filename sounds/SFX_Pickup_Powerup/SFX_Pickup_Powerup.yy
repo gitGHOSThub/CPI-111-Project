@@ -13,7 +13,7 @@
   "name":"SFX_Pickup_Powerup",
   "parent":{
     "name":"Misc",
-    "path":"folders/Sounds/Audio/SFX/Misc.yy",
+    "path":"folders/Sounds/SFX/Misc.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

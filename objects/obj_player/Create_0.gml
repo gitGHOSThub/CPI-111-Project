@@ -8,6 +8,7 @@ function spawnProj(){
 }
 
 
+// shoot_cd sets firerate
 function manageCDs(){
 	if (curr_shoot_cd <= 0){
 		spawnProj()

@@ -13,7 +13,7 @@
   "name":"SFX_Engine_Vehicle1_Loop",
   "parent":{
     "name":"Misc",
-    "path":"folders/Sounds/Audio/SFX/Misc.yy",
+    "path":"folders/Sounds/SFX/Misc.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

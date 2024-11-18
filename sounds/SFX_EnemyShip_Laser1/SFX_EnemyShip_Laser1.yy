@@ -13,7 +13,7 @@
   "name":"SFX_EnemyShip_Laser1",
   "parent":{
     "name":"Enemy Ship",
-    "path":"folders/Sounds/Audio/SFX/Enemy Ship.yy",
+    "path":"folders/Sounds/SFX/Enemy Ship.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

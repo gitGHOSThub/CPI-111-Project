@@ -13,7 +13,7 @@
   "name":"SFX_PlayerShip_Shield1_LoopEnd",
   "parent":{
     "name":"Player Ship",
-    "path":"folders/Sounds/Audio/SFX/Player Ship.yy",
+    "path":"folders/Sounds/SFX/Player Ship.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

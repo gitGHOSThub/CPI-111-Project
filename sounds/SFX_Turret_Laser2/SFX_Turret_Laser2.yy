@@ -13,7 +13,7 @@
   "name":"SFX_Turret_Laser2",
   "parent":{
     "name":"Turrets",
-    "path":"folders/Sounds/Audio/SFX/Turrets.yy",
+    "path":"folders/Sounds/SFX/Turrets.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
