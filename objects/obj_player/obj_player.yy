@@ -43,8 +43,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_appyguy",
-    "path":"sprites/spr_appyguy/spr_appyguy.yy",
+    "name":"spr_spaceship",
+    "path":"sprites/spr_spaceship/spr_spaceship.yy",
   },
   "spriteMaskId":null,
   "visible":true,

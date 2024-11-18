@@ -4,6 +4,8 @@
 
 shoot_angle = point_direction(x,y,mouse_x,mouse_y)
 
+image_angle = shoot_angle - 90
+
 global.playerX = x
 global.playerY = y
 
