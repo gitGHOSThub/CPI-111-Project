@@ -48,12 +48,11 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"Bullet Hell - CPI 111",
   "resources":[
     {"id":{"name":"obj_player_bullet","path":"objects/obj_player_bullet/obj_player_bullet.yy",},},
-    {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"SFX_Electrodes1","path":"sounds/SFX_Electrodes1/SFX_Electrodes1.yy",},},
     {"id":{"name":"SFX_Electrodes2","path":"sounds/SFX_Electrodes2/SFX_Electrodes2.yy",},},
@@ -162,7 +161,6 @@
     {"id":{"name":"spr_ui_font_score_8x8","path":"sprites/spr_ui_font_score_8x8/spr_ui_font_score_8x8.yy",},},
     {"id":{"name":"spr_ui_font_text_en_8x8","path":"sprites/spr_ui_font_text_en_8x8/spr_ui_font_text_en_8x8.yy",},},
     {"id":{"name":"spr_ui_icon_health","path":"sprites/spr_ui_icon_health/spr_ui_icon_health.yy",},},
-    {"id":{"name":"Sprite36","path":"sprites/Sprite36/Sprite36.yy",},},
     {"id":{"name":"ts_illustrated_top_Flameville","path":"tilesets/ts_illustrated_top_Flameville/ts_illustrated_top_Flameville.yy",},},
     {"id":{"name":"ts_illustrated_top_Haunted_Graveyard","path":"tilesets/ts_illustrated_top_Haunted_Graveyard/ts_illustrated_top_Haunted_Graveyard.yy",},},
     {"id":{"name":"ts_illustrated_top_Ice_Land","path":"tilesets/ts_illustrated_top_Ice_Land/ts_illustrated_top_Ice_Land.yy",},},
