@@ -54,6 +54,7 @@
   },
   "name":"Bullet Hell - CPI 111",
   "resources":[
+    {"id":{"name":"obj_bullet_blue_1","path":"objects/obj_bullet_blue_1/obj_bullet_blue_1.yy",},},
     {"id":{"name":"obj_bullet_blue","path":"objects/obj_bullet_blue/obj_bullet_blue.yy",},},
     {"id":{"name":"obj_bullet_red","path":"objects/obj_bullet_red/obj_bullet_red.yy",},},
     {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},},
