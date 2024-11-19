@@ -50,7 +50,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"Bullet Hell - CPI 111",
   "resources":[
@@ -58,6 +58,7 @@
     {"id":{"name":"obj_bullet_blue","path":"objects/obj_bullet_blue/obj_bullet_blue.yy",},},
     {"id":{"name":"obj_bullet_red","path":"objects/obj_bullet_red/obj_bullet_red.yy",},},
     {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},},
+    {"id":{"name":"obj_enemy_heavy","path":"objects/obj_enemy_heavy/obj_enemy_heavy.yy",},},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
     {"id":{"name":"obj_enemyspawner","path":"objects/obj_enemyspawner/obj_enemyspawner.yy",},},
     {"id":{"name":"obj_gamemanager","path":"objects/obj_gamemanager/obj_gamemanager.yy",},},
