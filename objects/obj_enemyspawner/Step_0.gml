@@ -1,5 +1,5 @@
-var center_x = display_get_width()/4;
-var center_y = display_get_height()/4;
+var center_x = obj_player.x
+var center_y = obj_player.y
 
 angle += orbit_speed;
 

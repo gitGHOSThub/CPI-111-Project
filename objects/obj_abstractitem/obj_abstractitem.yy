@@ -1,20 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_enemy",
+  "%Name":"obj_abstractitem",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_enemy",
+  "name":"obj_abstractitem",
   "overriddenProperties":[],
   "parent":{
-    "name":"Enemy",
-    "path":"folders/Objects/Entity/Enemy.yy",
+    "name":"Item",
+    "path":"folders/Objects/Item.yy",
   },
-  "parentObjectId":{
-    "name":"obj_abstractenemy",
-    "path":"objects/obj_abstractenemy/obj_abstractenemy.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -32,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_enemy_light",
-    "path":"sprites/spr_enemy_light/spr_enemy_light.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

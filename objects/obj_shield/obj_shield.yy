@@ -8,8 +8,8 @@
   "name":"obj_shield",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Item",
+    "path":"folders/Objects/Entity/Item.yy",
   },
   "parentObjectId":null,
   "persistent":false,

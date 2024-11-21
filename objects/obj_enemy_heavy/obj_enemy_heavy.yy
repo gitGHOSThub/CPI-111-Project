@@ -1,12 +1,14 @@
 {
   "$GMObject":"",
-  "%Name":"obj_enemy",
+  "%Name":"obj_enemy_heavy",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_enemy",
-  "overriddenProperties":[],
+  "name":"obj_enemy_heavy",
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_abstractenemy","path":"objects/obj_abstractenemy/obj_abstractenemy.yy",},"propertyId":{"name":"maxhealth","path":"objects/obj_abstractenemy/obj_abstractenemy.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"5",},
+  ],
   "parent":{
     "name":"Enemy",
     "path":"folders/Objects/Entity/Enemy.yy",

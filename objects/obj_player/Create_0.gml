@@ -1,21 +1,28 @@
+// init attributes
+health = maxhealth
+self.isVulnerable = true; // for iframes
 
+function applydamage(_other){
+	if (self.isVulnerable){
+		health -= _other.damage
+		self.isVulnerable = false;
+		alarm[10] = iframes;
+		if (health <= 0) {
+			instance_destroy()
+			obj_gamemanager.gamestate = -1;
+		}
+	}
+}
 
 function spawnProj(){
 
-	var projectileobj = instance_create_layer(x,y,"Instances", obj_bullet, {
+	var projectileobj = instance_create_layer(x,y,"Instances", obj_spinproj, {
 		direction : shoot_angle
 	})
 }
-function spawnProjj(){
-
-	var _projectileobj = instance_create_layer(x,y,"Instances", obj_bullet_blue_1, {
-		direction : shoot_angle
-	})
-}
-
 
 // shoot_cd sets firerate
-function manageCDs(){
+function manageShootCDs(){
 	if (curr_shoot_cd <= 0){
 		spawnProj()
 		curr_shoot_cd = shoot_cd 
@@ -23,11 +30,27 @@ function manageCDs(){
 	curr_shoot_cd -= delta_time/ 950000
 	
 }
-function manageCDDs(){
+
+function manageAbilityCDs(){
 	if (curr_shoot_cd <= 0){
-		spawnProjj()
-		curr_shoot_cd = shoot_cd 
+		spawnProj()
+		curr_ability_cd = shoot_cd 
 	}
-	curr_shoot_cd -= delta_time/ 1000000
+	curr_shoot_cd -= delta_time/ 950000
 	
+}
+
+
+function manageItems(){
+	
+}
+
+function manageActives(){
+	
+}
+
+function managePassives(){
+}
+
+function levelUp(){
 }
