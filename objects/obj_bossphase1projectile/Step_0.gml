@@ -1,13 +1,11 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-// Inherit the parent event
 event_inherited();
 
-function pattern(){
-	
+if (speed >= 0){
+	speed -= 0.02
 }
-
-function shoot(){
-	
+else{
+	ignoreIFrames = true
+	damage = 10
 }

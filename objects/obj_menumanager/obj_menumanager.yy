@@ -10,8 +10,8 @@
   "name":"obj_menumanager",
   "overriddenProperties":[],
   "parent":{
-    "name":"GUI & gamestate",
-    "path":"folders/Objects/GUI & gamestate.yy",
+    "name":"Management",
+    "path":"folders/Objects/Management.yy",
   },
   "parentObjectId":null,
   "persistent":false,

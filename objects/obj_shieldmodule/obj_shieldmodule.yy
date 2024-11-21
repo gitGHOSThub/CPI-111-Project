@@ -1,15 +1,23 @@
 {
   "$GMObject":"",
   "%Name":"obj_shieldmodule",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_shieldmodule",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_abstractitem","path":"objects/obj_abstractitem/obj_abstractitem.yy",},"propertyId":{"name":"isActive","path":"objects/obj_abstractitem/obj_abstractitem.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"True",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_abstractitem","path":"objects/obj_abstractitem/obj_abstractitem.yy",},"propertyId":{"name":"maxcd","path":"objects/obj_abstractitem/obj_abstractitem.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"5",},
+  ],
   "parent":{
     "name":"Item",
     "path":"folders/Objects/Item.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_abstractitem",
+    "path":"objects/obj_abstractitem/obj_abstractitem.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -27,10 +35,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_shield",
-    "path":"sprites/spr_shield/spr_shield.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
