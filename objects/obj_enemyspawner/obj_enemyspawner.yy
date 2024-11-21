@@ -11,8 +11,8 @@
   "name":"obj_enemyspawner",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Enemy",
+    "path":"folders/Objects/Entity/Enemy.yy",
   },
   "parentObjectId":null,
   "persistent":false,

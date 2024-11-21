@@ -1,9 +1,13 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+// Inherit the parent event
+event_inherited();
 
-speed = 3
+function pattern(){
+	
+}
 
-//point and move into direction of the player
-direction = point_direction(x,y,global.playerX,global.playerY)
-image_angle = point_direction(x,y, global.playerX, global.playerY) - 90
+function shoot(){
+	
+}
