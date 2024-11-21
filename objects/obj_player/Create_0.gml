@@ -1,6 +1,18 @@
 // init attributes
 health = maxhealth
+self.isVulnerable = true; // for iframes
 
+function applydamage(_other){
+	if (self.isVulnerable){
+		health -= _other.damage
+		self.isVulnerable = false;
+		alarm[10] = iframes;
+		if (health <= 0) {
+			instance_destroy()
+			obj_gamemanager.gamestate = -1;
+		}
+	}
+}
 
 function spawnProj(){
 
@@ -8,8 +20,6 @@ function spawnProj(){
 		direction : shoot_angle
 	})
 }
-
-
 
 // shoot_cd sets firerate
 function manageShootCDs(){
@@ -40,4 +50,7 @@ function manageActives(){
 }
 
 function managePassives(){
+}
+
+function levelUp(){
 }

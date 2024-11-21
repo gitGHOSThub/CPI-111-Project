@@ -5,6 +5,9 @@ self.currcd = 0
 self.name = ""
 self.desc = ""
 
+function registerItems(){
+}
+
 // call every passive item tick
 function tick(_player){
 	

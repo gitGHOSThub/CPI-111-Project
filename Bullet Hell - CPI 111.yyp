@@ -76,6 +76,7 @@
     {"id":{"name":"obj_playerprojectile","path":"objects/obj_playerprojectile/obj_playerprojectile.yy",},},
     {"id":{"name":"obj_rocket","path":"objects/obj_rocket/obj_rocket.yy",},},
     {"id":{"name":"obj_shield","path":"objects/obj_shield/obj_shield.yy",},},
+    {"id":{"name":"obj_shieldmodule","path":"objects/obj_shieldmodule/obj_shieldmodule.yy",},},
     {"id":{"name":"obj_spinproj","path":"objects/obj_spinproj/obj_spinproj.yy",},},
     {"id":{"name":"Ingame","path":"rooms/Ingame/Ingame.yy",},},
     {"id":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
