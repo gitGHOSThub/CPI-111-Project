@@ -3,11 +3,14 @@
   "%Name":"obj_rocket",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_abstractenemy","path":"objects/obj_abstractenemy/obj_abstractenemy.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_rocket",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_abstractprojectile","path":"objects/obj_abstractprojectile/obj_abstractprojectile.yy",},"propertyId":{"name":"lifetime","path":"objects/obj_abstractprojectile/obj_abstractprojectile.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"60",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_abstractprojectile","path":"objects/obj_abstractprojectile/obj_abstractprojectile.yy",},"propertyId":{"name":"damage","path":"objects/obj_abstractprojectile/obj_abstractprojectile.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1",},
+  ],
   "parent":{
     "name":"Projectile",
     "path":"folders/Objects/Entity/Projectile.yy",

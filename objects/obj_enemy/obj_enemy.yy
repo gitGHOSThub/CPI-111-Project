@@ -3,10 +3,15 @@
   "%Name":"obj_enemy",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_playerprojectile","path":"objects/obj_playerprojectile/obj_playerprojectile.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_enemy",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_abstractenemy","path":"objects/obj_abstractenemy/obj_abstractenemy.yy",},"propertyId":{"name":"maxhealth","path":"objects/obj_abstractenemy/obj_abstractenemy.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"6",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_abstractenemy","path":"objects/obj_abstractenemy/obj_abstractenemy.yy",},"propertyId":{"name":"scoreval","path":"objects/obj_abstractenemy/obj_abstractenemy.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"20",},
+  ],
   "parent":{
     "name":"Enemy",
     "path":"folders/Objects/Entity/Enemy.yy",
