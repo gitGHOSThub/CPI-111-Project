@@ -12,8 +12,8 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_abstractprojectile","path":"objects/obj_abstractprojectile/obj_abstractprojectile.yy",},"propertyId":{"name":"damage","path":"objects/obj_abstractprojectile/obj_abstractprojectile.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1",},
   ],
   "parent":{
-    "name":"Projectile",
-    "path":"folders/Objects/Entity/Projectile.yy",
+    "name":"Player",
+    "path":"folders/Objects/Entity/Projectile/Player.yy",
   },
   "parentObjectId":{
     "name":"obj_playerprojectile",

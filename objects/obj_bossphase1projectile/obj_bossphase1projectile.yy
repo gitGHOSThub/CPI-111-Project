@@ -13,8 +13,8 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_abstractprojectile","path":"objects/obj_abstractprojectile/obj_abstractprojectile.yy",},"propertyId":{"name":"ignoreIFrames","path":"objects/obj_abstractprojectile/obj_abstractprojectile.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"False",},
   ],
   "parent":{
-    "name":"Projectile",
-    "path":"folders/Objects/Entity/Projectile.yy",
+    "name":"Enemy",
+    "path":"folders/Objects/Entity/Projectile/Enemy.yy",
   },
   "parentObjectId":{
     "name":"obj_enemyprojectile",

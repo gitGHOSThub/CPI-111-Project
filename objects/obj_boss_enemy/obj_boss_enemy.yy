@@ -13,7 +13,7 @@
   "managed":true,
   "name":"obj_boss_enemy",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_abstractenemy","path":"objects/obj_abstractenemy/obj_abstractenemy.yy",},"propertyId":{"name":"maxhealth","path":"objects/obj_abstractenemy/obj_abstractenemy.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"200",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_abstractenemy","path":"objects/obj_abstractenemy/obj_abstractenemy.yy",},"propertyId":{"name":"maxhealth","path":"objects/obj_abstractenemy/obj_abstractenemy.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"300",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_abstractenemy","path":"objects/obj_abstractenemy/obj_abstractenemy.yy",},"propertyId":{"name":"scoreval","path":"objects/obj_abstractenemy/obj_abstractenemy.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1000",},
   ],
   "parent":{

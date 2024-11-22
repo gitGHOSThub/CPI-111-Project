@@ -9,8 +9,8 @@
   "name":"obj_enemyprojectile",
   "overriddenProperties":[],
   "parent":{
-    "name":"Projectile",
-    "path":"folders/Objects/Entity/Projectile.yy",
+    "name":"Enemy",
+    "path":"folders/Objects/Entity/Projectile/Enemy.yy",
   },
   "parentObjectId":{
     "name":"obj_abstractprojectile",

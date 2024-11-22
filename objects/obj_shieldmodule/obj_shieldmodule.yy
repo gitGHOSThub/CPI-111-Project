@@ -8,7 +8,10 @@
   "name":"obj_shieldmodule",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_abstractitem","path":"objects/obj_abstractitem/obj_abstractitem.yy",},"propertyId":{"name":"isActive","path":"objects/obj_abstractitem/obj_abstractitem.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"True",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_abstractitem","path":"objects/obj_abstractitem/obj_abstractitem.yy",},"propertyId":{"name":"maxcd","path":"objects/obj_abstractitem/obj_abstractitem.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"5",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_abstractitem","path":"objects/obj_abstractitem/obj_abstractitem.yy",},"propertyId":{"name":"maxcd","path":"objects/obj_abstractitem/obj_abstractitem.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"10",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_abstractitem","path":"objects/obj_abstractitem/obj_abstractitem.yy",},"propertyId":{"name":"menudisplaysprite","path":"objects/obj_abstractitem/obj_abstractitem.yy",},"resource":{"name":"spr_shield","path":"sprites/spr_shield/spr_shield.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"spr_shield",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_abstractitem","path":"objects/obj_abstractitem/obj_abstractitem.yy",},"propertyId":{"name":"itemname","path":"objects/obj_abstractitem/obj_abstractitem.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Shield Module",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_abstractitem","path":"objects/obj_abstractitem/obj_abstractitem.yy",},"propertyId":{"name":"desc","path":"objects/obj_abstractitem/obj_abstractitem.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Right click to get \\n a 2 second shield that \\n blocks all projectiles. \\n 10 second cooldown.",},
   ],
   "parent":{
     "name":"Item",

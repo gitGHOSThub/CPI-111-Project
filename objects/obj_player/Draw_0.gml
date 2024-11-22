@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-render_healthbar()
+
 
 if (self.invulnTimer >= 0){
 	self.invulnTimer --;
@@ -11,3 +11,6 @@ if (self.invulnTimer >= 0){
 else{
 	draw_self()
 }
+
+render_healthbar()
+render_abilitybar()

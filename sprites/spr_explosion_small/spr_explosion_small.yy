@@ -36,7 +36,7 @@
   "origin":0,
   "parent":{
     "name":"Explosions",
-    "path":"folders/Sprites/Explosions.yy",
+    "path":"folders/Sprites/Characters/Explosions.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

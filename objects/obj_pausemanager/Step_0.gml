@@ -6,7 +6,7 @@ if (keyboard_check_pressed(vk_down)) {
 }
 
 
-if (keyboard_check_pressed(vk_enter)) {
+if (keyboard_check_pressed(vk_enter) && obj_gamemanager.gamestate ==2 ) {
     switch (self.menu_index) {
         case 0:
             instance_activate_all()

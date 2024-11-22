@@ -1,20 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_playerprojectile",
+  "%Name":"obj_eventmanager",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_playerprojectile",
+  "name":"obj_eventmanager",
   "overriddenProperties":[],
   "parent":{
-    "name":"Player",
-    "path":"folders/Objects/Entity/Projectile/Player.yy",
+    "name":"Management",
+    "path":"folders/Objects/Management.yy",
   },
-  "parentObjectId":{
-    "name":"obj_abstractprojectile",
-    "path":"objects/obj_abstractprojectile/obj_abstractprojectile.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

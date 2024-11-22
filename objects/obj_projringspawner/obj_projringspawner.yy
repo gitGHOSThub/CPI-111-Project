@@ -8,8 +8,8 @@
   "name":"obj_projringspawner",
   "overriddenProperties":[],
   "parent":{
-    "name":"Projectile",
-    "path":"folders/Objects/Entity/Projectile.yy",
+    "name":"Enemy",
+    "path":"folders/Objects/Entity/Projectile/Enemy.yy",
   },
   "parentObjectId":null,
   "persistent":false,

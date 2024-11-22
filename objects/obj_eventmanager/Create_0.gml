@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-if (obj_gamemanager.gamestate != 0) return;
 
-update_direction()
+function onPlayerHurt(_player, _other){
+}
