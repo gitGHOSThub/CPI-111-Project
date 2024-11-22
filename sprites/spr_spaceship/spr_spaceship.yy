@@ -23,7 +23,7 @@
   ],
   "name":"spr_spaceship",
   "nineSlice":null,
-  "origin":9,
+  "origin":4,
   "parent":{
     "name":"Players",
     "path":"folders/Sprites/Characters/Players.yy",
@@ -76,7 +76,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":30,
-    "yorigin":41,
+    "yorigin":30,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

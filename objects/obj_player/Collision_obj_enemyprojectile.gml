@@ -1,3 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
-applydamage(other)
+health -= other.damage
+
+
+if (health <= 0) {
+	instance_destroy()
+	alarm[0] = 300
+}
