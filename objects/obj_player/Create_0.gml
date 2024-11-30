@@ -2,6 +2,12 @@
 health = maxhealth
 self.isVulnerable = true; // for iframes
 
+if (health <= 0) {
+	instance_destroy()
+	game_end()
+	obj_gamemanager.gamestate = -1;
+}
+
 function applydamage(_other){
 	if (self.isVulnerable){
 		health -= _other.damage
@@ -9,7 +15,9 @@ function applydamage(_other){
 		alarm[10] = iframes;
 		if (health <= 0) {
 			instance_destroy()
+			game_end()
 			obj_gamemanager.gamestate = -1;
+
 		}
 	}
 }
