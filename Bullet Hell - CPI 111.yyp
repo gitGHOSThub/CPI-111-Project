@@ -21,8 +21,8 @@
     {"$GMFolder":"","%Name":"Pickup","folderPath":"folders/Objects/Entity/Pickup.yy","name":"Pickup","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Player","folderPath":"folders/Objects/Entity/Player.yy","name":"Player","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Projectile","folderPath":"folders/Objects/Entity/Projectile.yy","name":"Projectile","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Item","folderPath":"folders/Objects/Item.yy","name":"Item","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"GUI & gamestate","folderPath":"folders/Objects/GUI & gamestate.yy","name":"GUI & gamestate","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Item","folderPath":"folders/Objects/Item.yy","name":"Item","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Particle Systems","folderPath":"folders/Particle Systems.yy","name":"Particle Systems","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Paths","folderPath":"folders/Paths.yy","name":"Paths","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -58,7 +58,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.6.2.162",
   },
   "name":"Bullet Hell - CPI 111",
   "resources":[
@@ -78,6 +78,7 @@
     {"id":{"name":"obj_shield","path":"objects/obj_shield/obj_shield.yy",},},
     {"id":{"name":"obj_shieldmodule","path":"objects/obj_shieldmodule/obj_shieldmodule.yy",},},
     {"id":{"name":"obj_spinproj","path":"objects/obj_spinproj/obj_spinproj.yy",},},
+    {"id":{"name":"Objscore","path":"objects/Objscore/Objscore.yy",},},
     {"id":{"name":"Ingame","path":"rooms/Ingame/Ingame.yy",},},
     {"id":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
     {"id":{"name":"SFX_Electrodes1","path":"sounds/SFX_Electrodes1/SFX_Electrodes1.yy",},},
