@@ -5,7 +5,7 @@
 // timer for duplicating the spawners. I want them to scale quadratically so here we are
 if (random(1) > 0.5){
 		var _spawn = instance_create_layer(x,y,"Instances", obj_enemyspawner)
-		spawn.angle = random(360)
+		spawn_angle = random(360)
 }
 
 alarm[1] = 1200

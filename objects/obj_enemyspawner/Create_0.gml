@@ -4,3 +4,5 @@
 alarm[0] = 300
 alarm[1] = 1200
 global.pscore=0;
+
+spawn_angle = real(random_range(0,360))
