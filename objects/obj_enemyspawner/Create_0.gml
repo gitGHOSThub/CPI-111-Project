@@ -3,3 +3,4 @@
 
 alarm[0] = 300
 alarm[1] = 1200
+global.pscore=0;
